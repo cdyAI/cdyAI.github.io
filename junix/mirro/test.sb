@@ -1,0 +1,10 @@
+#This a notunix like pkg.
+#pkgname"printk"
+#zuozhe"CDY"
+#v"0.0.1"
+def main():
+    print("1145")
+    a=input("aaa:")
+    print(a)
+
+main()
